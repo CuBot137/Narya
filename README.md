@@ -13,11 +13,11 @@ Python libraries: requests, BeautifulSoup, psycopg2, python-dotenv
 ## Setup
 Clone the repository:
 Set up your PostgreSQL database and add the connection details to a .env file in the project root:
-DB_NAME=your_database_name
-DB_USER=your_username
-DB_PASS=your_password
-DB_HOST=your_host
-DB_PORT=your_port
+- DB_NAME=your_database_name
+- DB_USER=your_username
+- DB_PASS=your_password
+- DB_HOST=your_host
+- DB_PORT=your_port
 
 ## Usage
 Run the main script:
