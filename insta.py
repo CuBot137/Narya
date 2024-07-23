@@ -6,7 +6,7 @@ import time
 import os
 
 # Directly set username and password for testing (remove in production)
-USERNAME = '0862428967'
+USERNAME = ''
 PASSWORD = os.getenv('PASSWORD', 'Governtooling137')
 print(USERNAME)
 
