@@ -5,8 +5,8 @@ import time
 import os
 
 # Directly set username and password for testing (remove in production)
-USERNAME = '0862428967'
-PASSWORD = os.getenv('PASSWORD', 'Governtooling137')
+USERNAME = ''
+PASSWORD = os.getenv('PASSWORD', '')
 print(USERNAME)
 
 if USERNAME is None or PASSWORD is None:
