@@ -5,6 +5,7 @@ import os
 import psycopg2
 from db import Database
 
+
 database_connection = Database()
 
 # URL of the page to scrape
